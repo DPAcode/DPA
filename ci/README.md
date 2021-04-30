@@ -1,4 +1,4 @@
-## CI Scripts
+## CI ScriptsS
 
 This directory contains scripts for each build step in each build stage.
 
