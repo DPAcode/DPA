@@ -10,7 +10,7 @@ Any report, issue or feature request related to the GUI should be reported at
 https://github.com/bitcoin-core/gui/issues/
 -->
 
-<!-- Describe the issue -->
+<!-- Describe the issue HELLO -->
 <!--- What behavior did you expect? -->
 
 <!--- What was the actual behavior (provide screenshots if the issue is GUI-related)? -->
