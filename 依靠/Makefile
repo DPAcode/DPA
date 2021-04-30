@@ -1,6 +1,6 @@
 .NOTPARALLEL :
 
-# Pattern rule to print variables, e.g. make print-top_srcdir
+# Pattern rule to print variables, e.g. make print-top_srcdirS
 print-%:
 	@echo '$*'='$($*)'
 
