@@ -1,5 +1,5 @@
 # ===========================================================================
-#      https://www.gnu.org/software/autoconf-archive/ax_boost_base.html
+#      https://www.gnu.org/software/autoconf-archive/ax_boost_base.htmlS
 # ===========================================================================
 #
 # SYNOPSIS
